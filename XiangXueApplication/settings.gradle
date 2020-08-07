@@ -1,2 +1,3 @@
+include ':textdraw'
 rootProject.name='XiangXueApplication'
 include ':app'
